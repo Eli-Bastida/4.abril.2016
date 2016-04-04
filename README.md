@@ -1,7 +1,7 @@
 # 4.abril.2016
 graficas seasonplot para identificar estacionalidad, tendencia y ciclicidad
 
-### siguendo con los daros de la clase pasada de las acciones
+### siguendo con los datos de la clase pasada de las acciones
 
 install.packages("fpp")
 require (fpp)
